@@ -16,8 +16,7 @@
   - Currently working as a React Native Development intern at [Frontier Techworks](https://ftworks.de/).
   
 ### 🌱 Currently Learning
-  - [Kotlin](https://kotlinlang.org/) for [Android Development](https://developer.android.com).
-  - [AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals).
+  - [Swift](https://swift.org) for iOS Development.
   
 ### 👯 Collaboration
   - Open for collaboration on awesome projects.
