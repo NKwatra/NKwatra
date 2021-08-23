@@ -21,8 +21,8 @@
 ### 👯 Collaboration
   - Open for collaboration on awesome projects.
   - Skills:
-    - **Proficient in** Javascript, React, React Native.
-    - **Familiar with** Java, Nodejs, MongoDB, PostgreSQL, Android, NextJS, Typescript, GraphQL.
+    - **Proficient in** Javascript, React, React Native, Typescript.
+    - **Familiar with** Java, Nodejs, MongoDB, PostgreSQL, Android, NextJS, GraphQL.
     - **Novice in** Gatsby, DevOps.
     
 ### 📫 Contact Me
