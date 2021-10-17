@@ -10,19 +10,16 @@
  ### 👨🏻‍💻  Who is Nishkarsh?
   - An ambitious Full Stack Developer.
   - An incredible Mobile Application Developer.
-  - A senior in college pursuing an engineering degree.
+  - A computer science undergraduate.
   
 ### 🔭 Current work  
-  - Currently working as a React Native Development intern at [Frontier Techworks](https://ftworks.de/).
-  
-### 🌱 Currently Learning
-  - [Swift](https://swift.org) for iOS Development.
+  - Currently working as Full Stack developer at [Frontier Techworks](https://ftworks.de/).
   
 ### 👯 Collaboration
   - Open for collaboration on awesome projects.
   - Skills:
-    - **Proficient in** Javascript, React, React Native, Typescript.
-    - **Familiar with** Java, Nodejs, MongoDB, PostgreSQL, Android, NextJS, GraphQL.
+    - **Proficient in** Javascript, React, React Native, Typescript, GraphQL.
+    - **Familiar with** Java, Nodejs, MongoDB, PostgreSQL, Android, NextJS.
     - **Novice in** Gatsby, DevOps.
     
 ### 📫 Contact Me
